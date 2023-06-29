@@ -1,1 +1,1 @@
-testando git push  
+add na pasta nova do projet segundo clone 
